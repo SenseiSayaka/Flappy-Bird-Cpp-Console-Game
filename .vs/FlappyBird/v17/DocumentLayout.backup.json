@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FlappyBird\\FlappyBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8769FC05-D223-46C3-B49E-0EA3188D10EC}|FlappyBird\\FlappyBird.vcxproj|C:\\Users\\User\\Desktop\\FlappyBird\\FlappyBird\\FlappyBird\\FlappyBirdVid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8769FC05-D223-46C3-B49E-0EA3188D10EC}|FlappyBird\\FlappyBird.vcxproj|solutionrelative:FlappyBird\\FlappyBirdVid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlappyBirdVid.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FlappyBird\\FlappyBird\\FlappyBird\\FlappyBirdVid.cpp",
+              "RelativeDocumentMoniker": "FlappyBird\\FlappyBirdVid.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FlappyBird\\FlappyBird\\FlappyBird\\FlappyBirdVid.cpp",
+              "RelativeToolTip": "FlappyBird\\FlappyBirdVid.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAwwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T13:28:28.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
